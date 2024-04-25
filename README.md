@@ -6,3 +6,5 @@ Goals:
 2. logging daily temperature and humidty data to spreadsheet
 3. Optional conditional logging if dramatic change
 4. Optional analytics on ideal conditions for technicians and operations
+
+Govee Documentation: https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf
