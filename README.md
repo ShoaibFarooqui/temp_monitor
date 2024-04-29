@@ -1,10 +1,10 @@
 # temp_monitor
-Automating Daily Temperature Logging from Govee Thermometer to Spreadsheet/Excel
+Automating Daily Temperature Logging from Govee Thermometer and Open Source Hardware to Spreadsheet/Excel
 
 Goals:
-1. api request from govee thermometer
-2. logging daily temperature and humidty data to spreadsheet
-3. Optional conditional logging if dramatic change
-4. Optional analytics on ideal conditions for technicians and operations
+1. logging daily temperature and humidty data to spreadsheet
+2. conditional notification for extreme temperatures 
+3. Optional SQL analytics on ideal conditions for technicians and operations
 
-Govee Documentation: https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf
+Govee API Documentation: https://govee-public.s3.amazonaws.com/developer-docs/GoveeDeveloperAPIReference.pdf
+Adafruit Documentation: https://learn.adafruit.com/adafruit-io-basics-digital-output/python-setup
